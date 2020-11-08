@@ -17,4 +17,6 @@ public class Bai1 {
             System.out.println("port : " + url.getPort());
             System.out.println("protocol : " + url.getProtocol());
         }
+    
+    
     }
