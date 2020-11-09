@@ -14,6 +14,5 @@ public class Bai3 {
             InetAddress localHost= host.getLocalHost();
             System.out.println("localhost: "+localHost);
             System.out.println("Dia chi URL: "+ host.getHostAddress());
-
         }
 }
