@@ -5,7 +5,6 @@ import java.net.URL;
 import java.util.Scanner;
 
 public class Bai1 {
-
     public static void main(String[] args) throws MalformedURLException {
             Scanner nhap = new Scanner(System.in);
             System.out.println("Nhap dia chi URL: ");//https://www.w3schools.com/
