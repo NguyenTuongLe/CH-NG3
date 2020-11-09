@@ -18,13 +18,12 @@ public class Bai2 {
         {
             URL u = new URL(url);//https://www.w3schools.com/
             a = (InputStream)u.getContent();
-            while((i=a.read())>0)
+            while((i = a.read()) > 0)
                 System.out.print((char)i);
-            System.out.println();
+                System.out.println();
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 }
 
