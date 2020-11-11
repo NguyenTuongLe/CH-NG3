@@ -1,5 +1,6 @@
 package com.company;
 
+
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Scanner;
